@@ -1,1 +1,1 @@
-# -Spotify-Dashboard-A-comprehensive-
+# Spotify-Dashboard
