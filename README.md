@@ -11,7 +11,7 @@
 
 
 
-https://app.powerbi.com/links/1zwNRn1Spv?ctid=e80f7c70-8a53-4aca-a51b-8475f63d051e&pbi_source=linkShare
+<iframe title="spotify dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOGY1ZDI0YTQtMmYxMi00Mzc5LWIwODgtMGE2ZGE5M2EzY2Y0IiwidCI6ImU4MGY3YzcwLThhNTMtNGFjYS1hNTFiLTg0NzVmNjNkMDUxZSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 A comprehensive **Spotify Dashboard** project that visualizes key user, artist, and playlist insights using interactive visualizations and analytical summaries.
 
