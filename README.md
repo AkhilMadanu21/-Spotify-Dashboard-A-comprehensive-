@@ -1,6 +1,6 @@
 # Spotify-Dashboard
 
-![Uploading image.png…]()
+
 <img width="1421" height="805" alt="image" src="https://github.com/user-attachments/assets/e7c1ebc2-7a30-48d3-9a7f-347052b7d59f" />
 
 
